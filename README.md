@@ -9,9 +9,11 @@
 
 I’m currently learning on my college
 
-
- <div align=center>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+<div align=center>
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+	
+  </div>
 <!--
 **mulchan24/mulchan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
