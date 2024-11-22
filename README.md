@@ -7,13 +7,13 @@
 # 안녕하세요! 김수찬입니다!
 # Hi! My name is SooChan Kim!
 
-## What I learn
-I’m currently learning python, c++ in my university
+## Learning
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 <div align=center>
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soochan2kim@gmail.com)](mailto:soochan2kim@gmail.com)
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ 
 	
   </div>
 
