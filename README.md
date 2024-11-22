@@ -15,6 +15,8 @@ I’m currently learning python, c++ in my university
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soochan2kim@gmail.com)](mailto:soochan2kim@gmail.com)
 	
   </div>
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mulchan24)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mulchan24/mulchan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
