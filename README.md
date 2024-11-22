@@ -7,7 +7,7 @@
 # 안녕하세요! 김수찬입니다!
 # Hi! My name is SooChan Kim!
 
-##What I learn
+## What I learn
 I’m currently learning python, c++ in my university
 
 <div align=center>
