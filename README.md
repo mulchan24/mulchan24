@@ -5,10 +5,15 @@
   </div>
 
 # 안녕하세요! 김수찬입니다!
-# Hi! My name is SooChan Kim!
+Hi! My name is SooChan Kim. I am learning codes in my university and just stepped into this world. So let me say "Hello World!".
 
 ## Learning
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+## Projexts
+Some are school Projects and own memos
+
+## Always looking forwards for collaboration
 
 <div align=center>
 	
