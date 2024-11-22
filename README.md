@@ -1,4 +1,5 @@
-## Hi there 👋
+## 안녕하세요! 김수찬입니다!👋
+## HI my name is SooChan Kim!
 
 <!--
 **mulchan24/mulchan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
