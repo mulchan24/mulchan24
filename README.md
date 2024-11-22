@@ -4,14 +4,15 @@
 	
   </div>
 
-## 안녕하세요! 김수찬입니다!👋
-## Hi! My name is SooChan Kim!
+# 안녕하세요! 김수찬입니다!
+# Hi! My name is SooChan Kim!
 
-I’m currently learning on my college
+##What I learn
+I’m currently learning python, c++ in my university
 
 <div align=center>
 	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soochan2kim@gmail.com)](mailto:soochan2kim@gmail.com)
 	
   </div>
 <!--
