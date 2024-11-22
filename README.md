@@ -13,6 +13,7 @@ I’m currently learning python, c++ in my university
 <div align=center>
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soochan2kim@gmail.com)](mailto:soochan2kim@gmail.com)
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 	
   </div>
 
