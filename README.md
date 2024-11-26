@@ -10,7 +10,7 @@ Hi! My name is SooChan Kim. I am learning codes in my university and just steppe
 ## Learning
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-## Projexts
+## Projects
 Some are school Projects and own memos
 
 ## Always looking forwards for collaboration
